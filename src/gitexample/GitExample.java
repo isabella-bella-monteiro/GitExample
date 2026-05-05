@@ -4,6 +4,8 @@
  */
 package gitexample;
 
+import java.util.Scanner;
+
 /**
  *
  * @author mac
@@ -14,7 +16,8 @@ public class GitExample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Scanner keyboard = new Scanner(System.in);
+        //CS - salva rapido 
     }
     
 }
